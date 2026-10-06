@@ -37,7 +37,6 @@ app/
     js/app.js               de schermen
     js/api.js               alle calls naar de API
     lib/                    Bootstrap en jQuery
-.github/workflows/build.yml een eerste, eenvoudige pipeline
 docs/threat-model.md        basis threat model van de starter app
 ```
 
